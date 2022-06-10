@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=IshThumber&label=Profile%20Views&color=1&icon=0&pretty=true)(https://github.com/IshThumber)]
+![](https://visitcount.itsvg.in/api?id=IshThumber&label=Profile%20Views&color=1&icon=0&pretty=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=IshThumber&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=IshThumber&theme=dark&hide_border=true) 
 <br/>
