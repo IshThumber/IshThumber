@@ -39,8 +39,4 @@
 
 <br/><br/>
 
-### 😂Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="450px"/>
-
 </div>
