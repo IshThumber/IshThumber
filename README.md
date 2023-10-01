@@ -1,4 +1,4 @@
-<h1 color="green">Hey there! 👋 Ish Thumber!</h1>
+<h1 color="green">Hey there! 👋 I'm Ish Thumber!</h1>
 
 ### About me
 
