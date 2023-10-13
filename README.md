@@ -9,7 +9,7 @@
 - 👨‍💻 Portfolio **[ishthumber.vercel.app](ishthumber.vercel.app)**
 - 💬 Ask me about **MERN Stack, PERN Stack.**
 - ⚡ Fun fact **I developer with code.**
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1JOihDbIFvQGx5onKivsGlu2ZTA7BEKed/view?usp=drivesdk)**
+- 📄 Know about my experiences: **[Resume]([https://drive.google.com/file/d/1JOihDbIFvQGx5onKivsGlu2ZTA7BEKed/view?usp=drivesdk](https://drive.google.com/file/d/1dCukUpwN8EbVZwBdKMTVNDxm6M-fkbhz/view?usp=sharing))**
 - 📫 How to reach me **ishthumber343@gmail.com**
 
 ### I code with
